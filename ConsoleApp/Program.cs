@@ -15,7 +15,27 @@ namespace ConsoleApp
             IFormatReader formatReader = new MockFormatReader();
             IDataReader dataReader = new DataReader(formatReader);
 
-            IDataPrinter hierarchyPrinter = new HierarchyPrinter();
+            // Use command line argument of '-s' or '-sorted' to create a 'SortedHierarchyPrinter'
+            //  otherwise, create an unsorted 'HierarchyPrinter'
+            IDataPrinter hierarchyPrinter = null;
+
+            if(args.Length > 0)
+            {
+                if(args[0].ToLower().Equals("-s") || args[0].ToLower().Equals("-sorted"))
+                {
+                    hierarchyPrinter = new SortedHierarchyPrinter();
+                }
+                else
+                {
+                    hierarchyPrinter = new HierarchyPrinter();
+                }
+            }
+            else
+            {
+                hierarchyPrinter = new HierarchyPrinter();
+            }
+
+            // Create the Salaray Requirement Printer
             IDataPrinter salaryRequirementPrinter = new SalaryRequirementPrinter();
 
             // Read Employee data from the data source
