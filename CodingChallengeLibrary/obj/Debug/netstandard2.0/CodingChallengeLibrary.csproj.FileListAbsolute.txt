@@ -1,0 +1,9 @@
+C:\Users\Computer\Desktop\Infor\CodingChallenge\CodingChallengeLibrary\bin\Debug\netstandard2.0\CodingChallengeLibrary.deps.json
+C:\Users\Computer\Desktop\Infor\CodingChallenge\CodingChallengeLibrary\bin\Debug\netstandard2.0\CodingChallengeLibrary.dll
+C:\Users\Computer\Desktop\Infor\CodingChallenge\CodingChallengeLibrary\bin\Debug\netstandard2.0\CodingChallengeLibrary.pdb
+C:\Users\Computer\Desktop\Infor\CodingChallenge\CodingChallengeLibrary\obj\Debug\netstandard2.0\CodingChallengeLibrary.csprojAssemblyReference.cache
+C:\Users\Computer\Desktop\Infor\CodingChallenge\CodingChallengeLibrary\obj\Debug\netstandard2.0\CodingChallengeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\Infor\CodingChallenge\CodingChallengeLibrary\obj\Debug\netstandard2.0\CodingChallengeLibrary.AssemblyInfoInputs.cache
+C:\Users\Computer\Desktop\Infor\CodingChallenge\CodingChallengeLibrary\obj\Debug\netstandard2.0\CodingChallengeLibrary.AssemblyInfo.cs
+C:\Users\Computer\Desktop\Infor\CodingChallenge\CodingChallengeLibrary\obj\Debug\netstandard2.0\CodingChallengeLibrary.dll
+C:\Users\Computer\Desktop\Infor\CodingChallenge\CodingChallengeLibrary\obj\Debug\netstandard2.0\CodingChallengeLibrary.pdb

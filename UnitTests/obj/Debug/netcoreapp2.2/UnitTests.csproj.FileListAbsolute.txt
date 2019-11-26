@@ -1,0 +1,17 @@
+C:\Users\Computer\Desktop\Infor\CodingChallenge\UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Computer\Desktop\Infor\CodingChallenge\UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Computer\Desktop\Infor\CodingChallenge\UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Computer\Desktop\Infor\CodingChallenge\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.deps.json
+C:\Users\Computer\Desktop\Infor\CodingChallenge\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.runtimeconfig.json
+C:\Users\Computer\Desktop\Infor\CodingChallenge\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.runtimeconfig.dev.json
+C:\Users\Computer\Desktop\Infor\CodingChallenge\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.dll
+C:\Users\Computer\Desktop\Infor\CodingChallenge\UnitTests\bin\Debug\netcoreapp2.2\UnitTests.pdb
+C:\Users\Computer\Desktop\Infor\CodingChallenge\UnitTests\bin\Debug\netcoreapp2.2\CodingChallengeLibrary.dll
+C:\Users\Computer\Desktop\Infor\CodingChallenge\UnitTests\bin\Debug\netcoreapp2.2\CodingChallengeLibrary.pdb
+C:\Users\Computer\Desktop\Infor\CodingChallenge\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.csprojAssemblyReference.cache
+C:\Users\Computer\Desktop\Infor\CodingChallenge\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\Infor\CodingChallenge\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.AssemblyInfoInputs.cache
+C:\Users\Computer\Desktop\Infor\CodingChallenge\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.AssemblyInfo.cs
+C:\Users\Computer\Desktop\Infor\CodingChallenge\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.csproj.CopyComplete
+C:\Users\Computer\Desktop\Infor\CodingChallenge\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.dll
+C:\Users\Computer\Desktop\Infor\CodingChallenge\UnitTests\obj\Debug\netcoreapp2.2\UnitTests.pdb
