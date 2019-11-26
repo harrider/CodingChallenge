@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\ConsoleApp\\ConsoleApp.csproj": {}
+    "C:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\UnitTests\\UnitTests.csproj": {}
   },
   "projects": {
     "C:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\CodingChallengeLibrary\\CodingChallengeLibrary.csproj": {
@@ -60,14 +60,14 @@
         }
       }
     },
-    "C:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\ConsoleApp\\ConsoleApp.csproj": {
+    "C:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\UnitTests\\UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\ConsoleApp\\ConsoleApp.csproj",
-        "projectName": "ConsoleApp",
-        "projectPath": "C:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\UnitTests\\UnitTests.csproj",
+        "projectName": "UnitTests",
+        "projectPath": "C:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\UnitTests\\UnitTests.csproj",
         "packagesPath": "C:\\Users\\Computer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -101,11 +101,23 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
             }
           },
           "imports": [
