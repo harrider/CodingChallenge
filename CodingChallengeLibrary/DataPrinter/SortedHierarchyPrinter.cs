@@ -18,14 +18,14 @@ namespace CodingChallengeLibrary.DataPrinter
         }
 
 
-        public void Print(IEmployee rootManager)
+        public string PrintString(IEmployee rootManager)
         {
             if(rootManager == null)
                 throw new ArgumentException($"ERROR :: '{nameof(rootManager)}' is NULL!");
 
             var result = PrintRecursive(rootManager, 0);
 
-            Console.WriteLine(result);
+            return result;
         }
 
 
