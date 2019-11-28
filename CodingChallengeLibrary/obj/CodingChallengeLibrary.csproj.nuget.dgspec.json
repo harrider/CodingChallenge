@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\CodingChallengeLibrary\\CodingChallengeLibrary.csproj": {}
+    "c:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\CodingChallengeLibrary\\CodingChallengeLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\CodingChallengeLibrary\\CodingChallengeLibrary.csproj": {
+    "c:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\CodingChallengeLibrary\\CodingChallengeLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\CodingChallengeLibrary\\CodingChallengeLibrary.csproj",
+        "projectUniqueName": "c:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\CodingChallengeLibrary\\CodingChallengeLibrary.csproj",
         "projectName": "CodingChallengeLibrary",
-        "projectPath": "C:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\CodingChallengeLibrary\\CodingChallengeLibrary.csproj",
+        "projectPath": "c:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\CodingChallengeLibrary\\CodingChallengeLibrary.csproj",
         "packagesPath": "C:\\Users\\Computer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\CodingChallengeLibrary\\obj\\",
+        "outputPath": "c:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\CodingChallengeLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

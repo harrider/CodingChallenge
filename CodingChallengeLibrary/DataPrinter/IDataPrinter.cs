@@ -5,6 +5,6 @@ namespace CodingChallengeLibrary.DataPrinter
 {
     public interface IDataPrinter
     {
-        void Print(IEmployee rootManager);
+        string PrintString(IEmployee rootManager);
     }
 }

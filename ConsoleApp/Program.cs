@@ -41,9 +41,13 @@ namespace ConsoleApp
             // Read Employee data from the data source
             var rootManager = dataReader.Read();
 
+            // Get String representations for the Employee Hierarchy & Salary Requirement
+            var hierarchyString = hierarchyPrinter.PrintString(rootManager);
+            var salaryRequirementString = salaryRequirementPrinter.PrintString(rootManager);
+
             // Print the Employee Hierarchy & Salary Requirement
-            hierarchyPrinter.Print(rootManager);
-            salaryRequirementPrinter.Print(rootManager);
+            Console.WriteLine(hierarchyString);
+            Console.WriteLine(salaryRequirementString);
         }
     }
 }
