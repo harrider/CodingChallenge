@@ -99,4 +99,4 @@
 
 ## UML Diagram for Idea of How Types are Composed
 
-![Coding Challenge Implementation Overview](./Images/UmlOverview.PNG)
+![Coding Challenge Implementation Overview](./Images/UmlOverview.png)
