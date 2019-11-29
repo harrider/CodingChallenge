@@ -52,9 +52,16 @@ namespace UnitTests
 
 
         [Fact]
+        public void JsonFormatReaderInvalidFileTypeArgumentException()
+        {
+            Assert.Throws<ArgumentException>( () => new JsonFormatReader("c:/TestFilePath.txt") );
+        }
+
+
+        [Fact]
         public void ValidJsonFormatReaderCreationTest()
         {
-            IFormatReader jsonFormatReader = new JsonFormatReader("c:/TestFilePath");
+            IFormatReader jsonFormatReader = new JsonFormatReader("c:/TestFilePath.json");
             
             Assert.NotNull(jsonFormatReader);
             Assert.IsType<JsonFormatReader>(jsonFormatReader);
