@@ -1,9 +1,6 @@
 ﻿using System;
 using System.IO;
-using System.Collections.Generic;
 using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.Configuration.Json;
-using CodingChallengeLibrary;
 using CodingChallengeLibrary.FormatReader;
 using CodingChallengeLibrary.DataReader;
 using CodingChallengeLibrary.DataPrinter;
@@ -26,6 +23,7 @@ namespace ConsoleApp
                 .SetBasePath(Environment.CurrentDirectory)
                 .AddJsonFile(_AppSettingsFileName);
 
+            // Read the AppSettings file and create a ConfigurationRoot object
             var configs = builder.Build();
 
 
@@ -48,7 +46,7 @@ namespace ConsoleApp
                 throw new ApplicationException($"ERROR :: Problem reading App Setting '{_AppSetting_SortHierarchyOutput}'!");
 
             
-            // Composition Root & Dependency Injection patterns
+            // Use the Composition Root & Dependency Injection patterns to compose the application's functionality
             // IFormatReader formatReader = new MockFormatReader();
             IFormatReader formatReader = new JsonFormatReader(employeeHierarchyFilePath);
             IDataReader dataReader = new DataReader(formatReader);

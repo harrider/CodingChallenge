@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\UnitTests\\UnitTests.csproj": {}
+    "C:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\UnitTests\\UnitTests.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\CodingChallengeLibrary\\CodingChallengeLibrary.csproj": {
+    "C:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\CodingChallengeLibrary\\CodingChallengeLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\CodingChallengeLibrary\\CodingChallengeLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\CodingChallengeLibrary\\CodingChallengeLibrary.csproj",
         "projectName": "CodingChallengeLibrary",
-        "projectPath": "c:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\CodingChallengeLibrary\\CodingChallengeLibrary.csproj",
+        "projectPath": "C:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\CodingChallengeLibrary\\CodingChallengeLibrary.csproj",
         "packagesPath": "C:\\Users\\Computer\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\CodingChallengeLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\CodingChallengeLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -60,14 +60,14 @@
         }
       }
     },
-    "c:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\UnitTests\\UnitTests.csproj": {
+    "C:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\UnitTests\\UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\UnitTests\\UnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\UnitTests\\UnitTests.csproj",
         "projectName": "UnitTests",
-        "projectPath": "c:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\UnitTests\\UnitTests.csproj",
+        "projectPath": "C:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\UnitTests\\UnitTests.csproj",
         "packagesPath": "C:\\Users\\Computer\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\UnitTests\\obj\\",
+        "outputPath": "C:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -86,8 +86,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "c:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\CodingChallengeLibrary\\CodingChallengeLibrary.csproj": {
-                "projectPath": "c:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\CodingChallengeLibrary\\CodingChallengeLibrary.csproj"
+              "C:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\CodingChallengeLibrary\\CodingChallengeLibrary.csproj": {
+                "projectPath": "C:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\CodingChallengeLibrary\\CodingChallengeLibrary.csproj"
               }
             }
           }
