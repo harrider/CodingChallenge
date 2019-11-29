@@ -58,6 +58,11 @@
           "assetTargetFallback": true,
           "warn": true
         }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
       }
     },
     "C:\\Users\\Computer\\Desktop\\Infor\\CodingChallenge\\ConsoleApp\\ConsoleApp.csproj": {
@@ -108,7 +113,7 @@
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.2.0, )",
+              "version": "[2.2.4, )",
               "autoReferenced": true
             }
           },
@@ -117,6 +122,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
         }
       }
     }

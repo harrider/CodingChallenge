@@ -1,0 +1,17 @@
+C:\Users\Computer\Desktop\Infor\CodingChallenge\ConsoleApp\bin\Release\netcoreapp2.2\win10-x64\appsettings.json
+C:\Users\Computer\Desktop\Infor\CodingChallenge\ConsoleApp\bin\Release\netcoreapp2.2\win10-x64\Hierarchy.json
+C:\Users\Computer\Desktop\Infor\CodingChallenge\ConsoleApp\bin\Release\netcoreapp2.2\win10-x64\hostpolicy.dll
+C:\Users\Computer\Desktop\Infor\CodingChallenge\ConsoleApp\bin\Release\netcoreapp2.2\win10-x64\hostfxr.dll
+C:\Users\Computer\Desktop\Infor\CodingChallenge\ConsoleApp\bin\Release\netcoreapp2.2\win10-x64\ConsoleApp.exe
+C:\Users\Computer\Desktop\Infor\CodingChallenge\ConsoleApp\bin\Release\netcoreapp2.2\win10-x64\ConsoleApp.deps.json
+C:\Users\Computer\Desktop\Infor\CodingChallenge\ConsoleApp\bin\Release\netcoreapp2.2\win10-x64\ConsoleApp.runtimeconfig.json
+C:\Users\Computer\Desktop\Infor\CodingChallenge\ConsoleApp\bin\Release\netcoreapp2.2\win10-x64\ConsoleApp.runtimeconfig.dev.json
+C:\Users\Computer\Desktop\Infor\CodingChallenge\ConsoleApp\bin\Release\netcoreapp2.2\win10-x64\ConsoleApp.dll
+C:\Users\Computer\Desktop\Infor\CodingChallenge\ConsoleApp\bin\Release\netcoreapp2.2\win10-x64\ConsoleApp.pdb
+C:\Users\Computer\Desktop\Infor\CodingChallenge\ConsoleApp\bin\Release\netcoreapp2.2\win10-x64\CodingChallengeLibrary.dll
+C:\Users\Computer\Desktop\Infor\CodingChallenge\ConsoleApp\bin\Release\netcoreapp2.2\win10-x64\CodingChallengeLibrary.pdb
+C:\Users\Computer\Desktop\Infor\CodingChallenge\ConsoleApp\obj\Release\netcoreapp2.2\win10-x64\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Computer\Desktop\Infor\CodingChallenge\ConsoleApp\obj\Release\netcoreapp2.2\win10-x64\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\Infor\CodingChallenge\ConsoleApp\obj\Release\netcoreapp2.2\win10-x64\ConsoleApp.csproj.CopyComplete
+C:\Users\Computer\Desktop\Infor\CodingChallenge\ConsoleApp\obj\Release\netcoreapp2.2\win10-x64\ConsoleApp.dll
+C:\Users\Computer\Desktop\Infor\CodingChallenge\ConsoleApp\obj\Release\netcoreapp2.2\win10-x64\ConsoleApp.pdb

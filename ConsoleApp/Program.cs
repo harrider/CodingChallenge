@@ -81,6 +81,11 @@ namespace ConsoleApp
             // Print the Employee Hierarchy & Salary Requirement
             Console.WriteLine(hierarchyString);
             Console.WriteLine(salaryRequirementString);
+
+            // Keep the console window open
+            Console.WriteLine("\n\nPress 'enter' to exit...");
+            Console.ReadLine();
+
         }
     }
 }
