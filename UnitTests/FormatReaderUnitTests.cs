@@ -6,7 +6,7 @@ using CodingChallengeLibrary.FormatReader;
 
 namespace UnitTests
 {
-    public class FormatReaderUnitTests
+    public class MockFormatReaderUnitTests
     {
         [Fact]
         public void MockFormatReaderCreationTest()
@@ -28,8 +28,15 @@ namespace UnitTests
             Assert.NotNull(rootManager);
             Assert.IsType<Manager<IEmployee>>(rootManager);
         }
+    }
 
 
+// ===========================================================================================
+// ===========================================================================================
+
+
+    public class JsonFormatReaderUnitTests
+    {
         [Fact]
         public void JsonFormatReaderEmptyArgumentException()
         {
