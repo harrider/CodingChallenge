@@ -1,0 +1,36 @@
+{
+  "EmployeeType" : "Manager",
+  "EmployeeData" : { "Name": "Jeff", "Salary" : 100000 },
+  "DirectReports":  [
+    { 
+      "EmployeeType" : "Manager",
+      "EmployeeData" : { "Name" : "Dave", "Salary" : 85000 },
+      "DirectReports" : [
+          { 
+            "EmployeeType" : "Employee",
+            "EmployeeData" : { "Name" : "Andy", "Salary" : 65000 } 
+          },
+          { 
+            "EmployeeType" : "Employee",
+            "EmployeeData" : { "Name" : "Dan", "Salary" : 60000 } 
+          },
+          { 
+            "EmployeeType" : "Employee",
+            "EmployeeData" : { "Name" : "Jason", "Salary" : 60000 } 
+          },
+          { 
+            "EmployeeType" : "Employee",
+            "EmployeeData" : { "Name" : "Rick", "Salary" : 56000 } 
+          },
+          { 
+            "EmployeeType" : "Employee",
+            "EmployeeData" : { "Name" : "Suzanne", "Salary" : 61000 } 
+          }
+        ]
+    },
+    { 
+      "EmployeeType" : "Employee",
+      "EmployeeData" : { "Name" : "Cory", "Salary" : 65000 } 
+    }
+  ]
+}
